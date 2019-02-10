@@ -45,14 +45,14 @@ Homepage: https://github.com/NorcuxOS/app-center
 
 Package: norcuxos-artwork
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.12-1
+Version: 0.14-1
 Priority: optional
 Section: kde
-Filename: pool/main/n/norcuxos-artwork/norcuxos-artwork_0.12-1_all.deb
-Size: 438548
-SHA256: e2dca8a6c3306bb8ce1f5fb272149c19c84df46ce0fef9d87046bfa6d1fe72f5
-SHA1: a403b1bb9867284e3984dfe2aeba05dfd86e5150
-MD5sum: 9c65968eafb5d82ee16651f15f163358
+Filename: pool/main/n/norcuxos-artwork/norcuxos-artwork_0.14-1_all.deb
+Size: 438648
+SHA256: 72e5409ef9dd415add37eef2471b6a736fd5c9178e2e2a0ab624eb520cae54fa
+SHA1: 125e1302fa546be14f14f6420762a41991c37d37
+MD5sum: 8e8dcbdf0334f1b0bbf5ad1b01877397
 Description: Norcux OS Artwork
  This package contains the Norcux OS artwork.
 Architecture: all

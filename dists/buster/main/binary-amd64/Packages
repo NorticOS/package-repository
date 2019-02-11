@@ -120,14 +120,14 @@ Homepage: https://github.com/NorcuxOS/plasma-look-and-feel
 
 Package: norcuxos-sddm-theme
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.11-1
+Version: 0.12-1
 Priority: optional
 Section: x11
-Filename: pool/main/n/norcuxos-sddm-theme/norcuxos-sddm-theme_0.11-1_all.deb
-Size: 291436
-SHA256: 7abe3ae2e160fe06738db449577d8bb6835389d8640a7acd5ac626ea885b7580
-SHA1: 13f1c94875fd5a27874775a59296eac4ef0fe7c5
-MD5sum: fd0d5613ccc5888424e5230e41ee529d
+Filename: pool/main/n/norcuxos-sddm-theme/norcuxos-sddm-theme_0.12-1_all.deb
+Size: 287368
+SHA256: a68334e2a628af9d56f1d1166da5f89e6867c61c592e7c93d84de8108f603bcc
+SHA1: 3accb658660aea4aad69ac0629fa465a10a470bf
+MD5sum: 3a83d422af6c9c653c9927a919b25445
 Description: Norcux OS SDDM Theme
  This package contains the Norcux OS SDDM theme.
 Architecture: all

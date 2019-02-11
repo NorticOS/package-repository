@@ -120,14 +120,14 @@ Homepage: https://github.com/NorcuxOS/gtk-theme
 
 Package: norcuxos-plasma-look-and-feel
 Maintainer: Norcux OS Team <NorcuxOS@protonmail.com>
-Version: 0.11.2-1
+Version: 0.12-1
 Priority: optional
 Section: kde
-Filename: pool/main/n/norcuxos-plasma-look-and-feel/norcuxos-plasma-look-and-feel_0.11.2-1_all.deb
-Size: 144112
-SHA256: d2e80e2d745cd7713927f1f4b17851526b838865f66231a685dbae81cf1ac396
-SHA1: 927ecfe091450049bb95f2f7dbacb2a1607e1e3c
-MD5sum: 967834bc319b65b7c55338587cf0fc4f
+Filename: pool/main/n/norcuxos-plasma-look-and-feel/norcuxos-plasma-look-and-feel_0.12-1_all.deb
+Size: 144196
+SHA256: 614860a49b6e1e2f0ea65e258ba14b11e4db646a6bb6f8484c6648c2c9b837f2
+SHA1: f89533c781ad327a19a4b64ff80ec8e916866240
+MD5sum: f30ecf894728f1cb38ff68f312d8a305
 Description: Norcux OS Plasma Look and Feel
  This package contains the Norcux OS Plasma Look and Feel pack.
 Architecture: all

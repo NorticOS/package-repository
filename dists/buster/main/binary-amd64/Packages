@@ -124,10 +124,10 @@ Version: 0.12-1
 Priority: optional
 Section: kde
 Filename: pool/main/n/norcuxos-plasma-look-and-feel/norcuxos-plasma-look-and-feel_0.12-1_all.deb
-Size: 144196
-SHA256: 614860a49b6e1e2f0ea65e258ba14b11e4db646a6bb6f8484c6648c2c9b837f2
-SHA1: f89533c781ad327a19a4b64ff80ec8e916866240
-MD5sum: f30ecf894728f1cb38ff68f312d8a305
+Size: 144096
+SHA256: 3c30da9eb63e64d35249c7d8c3e3927956076ee971aaf4a29d2add552e179586
+SHA1: f7ab28539ad88eca906700d4745653bf32830ab1
+MD5sum: 4214cff370d803eae585b98a5b3e7b73
 Description: Norcux OS Plasma Look and Feel
  This package contains the Norcux OS Plasma Look and Feel pack.
 Architecture: all
